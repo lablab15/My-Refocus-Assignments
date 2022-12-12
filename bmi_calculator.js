@@ -1,7 +1,7 @@
 function bmiCalculator () {
 
 var h = 182;
-var w = 62;
+var w = 60;
 
 let bmi = (w/((h * h)/10000)).toFixed(2)
 result = bmi;
@@ -23,4 +23,4 @@ console.log("Weight entered : " + w + "kg");
 }
 console.log("Your result is: " )
 bmiCalculator();
- 
+
