@@ -7,7 +7,7 @@ let bmi = (w/((h * h)/10000)).toFixed(2)
 result = bmi;
 
 if (bmi < 18.5) {
-    console.log("sYou are underweight");
+    console.log("You are underweight");
 }
 else if (bmi >= 18.5 && bmi <= 24.9) {
     console.log("You are Normal Weight");
