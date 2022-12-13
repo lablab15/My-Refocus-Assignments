@@ -1,0 +1,20 @@
+{
+  "name": "Automated-Testing",
+  "version": "0.0.1",
+  "description": "AutomatedTesting",
+  "main": "bmi_calculator.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lablab15/My-Refocus-Assignments.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lablab15/My-Refocus-Assignments/issues"
+  },
+  "homepage": "https://github.com/lablab15/My-Refocus-Assignments#readme"
+}
